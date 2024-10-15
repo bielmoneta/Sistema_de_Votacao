@@ -12,7 +12,7 @@ public class Candidato {
 	public Candidato(String nome, int numero) {
 		this.nome = nome;
 		this.numero = numero;
-  }
+ 	}
   
 	public String getNome() {
 		return nome;
@@ -41,5 +41,5 @@ public class Candidato {
             }
         } 
         return null; 
-	}
+   }
 } 
